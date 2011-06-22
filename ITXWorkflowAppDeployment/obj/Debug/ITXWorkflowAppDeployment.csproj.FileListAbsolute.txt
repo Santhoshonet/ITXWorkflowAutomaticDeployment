@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\bin\Debug\feature.xml
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\bin\Debug\workflow.xml
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\bin\Debug\ITXWorkflowAppDeployment.dll
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\bin\Debug\ITXWorkflowAppDeployment.pdb
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\obj\Debug\ITXWorkflowAppDeployment.dll
+C:\Documents and Settings\Administrator\Desktop\ITXWorkflowAppDeployment\ITXWorkflowAppDeployment\obj\Debug\ITXWorkflowAppDeployment.pdb

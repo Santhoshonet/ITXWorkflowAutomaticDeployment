@@ -1,0 +1,297 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.designer.cs" caret="444" scrollPosition="0|0" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:__RESHARPER__DummyWebPages_/f:Association.aspx" caret="0" scrollPosition="0|0" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/f:MyUtilities.cs" caret="902" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:MyUtilities.cs" caret="796" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.Designer.cs" caret="2395" scrollPosition="0|0" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="599" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:workflow.xml" caret="621" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:feature.xml" caret="0" scrollPosition="0|0" />
+      <File id="E7FC600C-A655-47EE-A946-82524551C989/f:Program.cs" caret="845" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:feature.xml" caret="142" scrollPosition="0|0" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="2943" scrollPosition="0|49" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="3234" scrollPosition="0|55" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="2224" scrollPosition="0|37" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="1696" scrollPosition="0|37" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="1158" scrollPosition="0|22" />
+      <File id="DD7209F5-EBB8-4B24-91AB-D280A86C9AD3/d:_layouts/d:ITSWorkflowAppDeployment/f:Association.aspx.cs" caret="581" scrollPosition="0|7" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="1651" scrollPosition="0|9" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="2734" scrollPosition="0|21" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:workflow.xml" caret="621" scrollPosition="0|0" />
+      <File id="E7FC600C-A655-47EE-A946-82524551C989/f:Program.cs" caret="194" scrollPosition="0|0" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="8006" scrollPosition="0|89" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="14489" scrollPosition="0|209" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="24360" scrollPosition="0|340" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="15901" scrollPosition="0|238" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="24173" scrollPosition="0|329" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="1313" scrollPosition="0|6" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="4533" scrollPosition="0|18" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="5002" scrollPosition="0|26" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="5583" scrollPosition="0|36" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="8636" scrollPosition="0|84" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="12475" scrollPosition="0|152" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="13232" scrollPosition="0|164" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="14571" scrollPosition="43|179" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="17425" scrollPosition="0|236" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="19944" scrollPosition="0|285" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="16499" scrollPosition="0|231" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="19723" scrollPosition="0|299" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="17988" scrollPosition="0|275" />
+      <File id="9B1E77A2-BD4E-47BA-9A44-EE2DF80F18A4/f:ITXWorkflowAppDeployment.cs" caret="9450" scrollPosition="0|122" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="18" />
+      <Item value="if" priority="13" />
+      <Item value="Context" priority="4" />
+      <Item value="null" priority="1" />
+      <Item value="return" priority="5" />
+      <Item value="else" priority="2" />
+      <Item value="MyUtilities" priority="2" />
+      <Item value="SPListItem" priority="4" />
+      <Item value="public" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="SPContext" priority="1" />
+      <Item value="getSiteURL" priority="1" />
+      <Item value="using" priority="2" />
+      <Item value="SPSite" priority="2" />
+      <Item value="new" priority="1" />
+      <Item value="Site" priority="0" />
+      <Item value="List" priority="7" />
+      <Item value="SPFileSystemObjectType" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="folder" priority="1" />
+      <Item value="Response" priority="0" />
+      <Item value="SiteUrl" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="foreach" priority="5" />
+      <Item value="fold" priority="1" />
+      <Item value="folderFound" priority="1" />
+      <Item value="break" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="onWorkflowActivated1_WorkflowProperties" priority="0" />
+      <Item value="WorkflowPropertiesProperty" priority="0" />
+      <Item value="WorkflowProperty" priority="4" />
+      <Item value="SPList" priority="0" />
+      <Item value="item" priority="5" />
+      <Item value="byte" priority="0" />
+      <Item value="bytes" priority="2" />
+      <Item value="writer" priority="6" />
+      <Item value="StreamWriter" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="Length" priority="1" />
+      <Item value="FileMode" priority="0" />
+      <Item value="Directory" priority="12" />
+      <Item value="DirectoryInfo" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Environment" priority="1" />
+      <Item value="layoutsFolder" priority="2" />
+      <Item value="TempFolderPath" priority="2" />
+      <Item value="binfolder" priority="3" />
+      <Item value="DateTime" priority="1" />
+      <Item value="gacfolder" priority="2" />
+      <Item value="SPFile" priority="0" />
+      <Item value="file" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="catch" priority="1" />
+      <Item value="Exception" priority="1" />
+      <Item value="ErrorLogname" priority="0" />
+      <Item value="wic" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="batfilepath" priority="1" />
+      <Item value="LayoutsFolderPath" priority="0" />
+      <Item value="WorkflowProperties" priority="1" />
+      <Item value="ITXProjectsLibrary" priority="1" />
+      <Item value="finally" priority="1" />
+      <Item value="ex" priority="0" />
+      <Item value="EventLogEntryType" priority="0" />
+      <Item value="Deployment" priority="0" />
+      <Item value="sub_item" priority="0" />
+      <Item value="gacutilpath" priority="0" />
+      <Item value="filepath" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="featuresfolder" priority="0" />
+      <Item value="featuresdirpath" priority="1" />
+      <Item value="File" priority="2" />
+      <Item value="TwelvehiveFolderPath" priority="0" />
+      <Item value="directory" priority="0" />
+      <Item value="dir" priority="1" />
+      <Item value="curdir" priority="0" />
+      <Item value="executablefolder" priority="2" />
+      <Item value="layoutsfolder" priority="0" />
+      <Item value="Output" priority="0" />
+      <Item value="batchExecute" priority="0" />
+      <Item value="TaskItem" priority="0" />
+      <Item value="OutPut" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPContext">
+      <Item value="Site" priority="0" />
+      <Item value="ListId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPSite">
+      <Item value="Url" priority="1" />
+      <Item value="RootWeb" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPContext">
+      <Item value="Current" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="Lists" priority="1" />
+      <Item value="AllowUnsafeUpdates" priority="1" />
+      <Item value="Site" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="ID" priority="0" />
+      <Item value="Lists" priority="0" />
+      <Item value="Items" priority="1" />
+      <Item value="Update" priority="0" />
+      <Item value="ParentWeb" priority="1" />
+      <Item value="ContentTypes" priority="0" />
+      <Item value="Folders" priority="2" />
+      <Item value="DefaultViewUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItemCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPFileSystemObjectType">
+      <Item value="Folder" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItem">
+      <Item value="Update" priority="3" />
+      <Item value="Title" priority="1" />
+      <Item value="DisplayName" priority="2" />
+      <Item value="ListItems" priority="4" />
+      <Item value="Folder" priority="1" />
+      <Item value="FileSystemObjectType" priority="1" />
+      <Item value="File" priority="0" />
+      <Item value="Fields" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Redirect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPContentType">
+      <Item value="DisplayFormUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower" priority="1" />
+      <Item value="Trim" priority="1" />
+      <Item value="Split" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.Utilities.SPUtility">
+      <Item value="GetFullUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Workflow.SPWorkflowActivationProperties">
+      <Item value="List" priority="0" />
+      <Item value="SiteUrl" priority="0" />
+      <Item value="Site" priority="0" />
+      <Item value="TaskList" priority="0" />
+      <Item value="Web" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFolder">
+      <Item value="Files" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFile">
+      <Item value="OpenBinary" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write" priority="0" />
+      <Item value="Close" priority="1" />
+      <Item value="Flush" priority="1" />
+      <Item value="WriteLine" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="OpenOrCreate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath" priority="1" />
+      <Item value="GetEnvironmentVariable" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetTempPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Exists" priority="2" />
+      <Item value="CreateDirectory" priority="2" />
+      <Item value="GetFiles" priority="0" />
+      <Item value="GetDirectories" priority="1" />
+      <Item value="Delete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Month" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="Minute" priority="0" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXWorkflowAppDeployment.MyUtilities">
+      <Item value="ErrorLog" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.EventLogEntryType">
+      <Item value="Error" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.Deployment">
+      <Item value="ExecuteProcess" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.ProcessWindowStyle">
+      <Item value="Hidden" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="0" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="StandardOutput" priority="0" />
+      <Item value="BeginOutputReadLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.ProcessStartInfo">
+      <Item value="RedirectStandardOutput" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

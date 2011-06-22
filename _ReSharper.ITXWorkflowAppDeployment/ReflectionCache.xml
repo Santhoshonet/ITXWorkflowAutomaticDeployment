@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="9a64ab97-e7e1-41f3-8653-4ac3e6b4fc45" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="99bde5c7-cee3-44a7-9074-e1c1903f4b1d" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Workflow.Activities, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="d13c51f2-7dc9-44c7-864c-ff2d94bbd300" Timestamp="633529369720000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Workflow.ComponentModel, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="fd110c0b-9438-4ee1-bf65-4a24f05c17fb" Timestamp="633529369720000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Workflow.Runtime, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="2afd52f6-43a4-45a9-84ce-5bb06ed1ec09" Timestamp="633529369720000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="df398359-d238-438e-b083-0ca2d9818e13" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="Microsoft.SharePoint, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="4e730f66-4bde-4a49-89ca-a86c9a0f3a02" Timestamp="633306742940000000" XmlDocIndexTimestamp="633352983840000000" />
+  <Assembly Name="Microsoft.SharePoint.Search, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="545a0546-bab5-44f6-a672-a006e19d5952" Timestamp="633235082960000000" XmlDocIndexTimestamp="633352983840000000" />
+  <Assembly Name="Microsoft.SharePoint.WorkflowActions, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="e245d1a1-6d53-4e1c-aa24-bbf0ce61fb1e" Timestamp="633236490860000000" XmlDocIndexTimestamp="633352983840000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="c1733985-6a2d-4b94-950b-dd8bdf1aae3a" Timestamp="633559544920000000" XmlDocIndexTimestamp="633559544920000000" />
+  <Assembly Name="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="ff4a6245-c63f-4328-b52c-5f0c1cfe3670" Timestamp="633640875300000000" XmlDocIndexTimestamp="633492445960000000" />
+  <Assembly Name="ITXProjectsLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ebfca3a9b29c271a" Image="131f9d57-c607-4ec2-9aba-dd13e0606928" Timestamp="634442600207413811" />
+</Assemblies>

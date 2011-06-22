@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F8810EC1-6754-47FC-A15F-DFABD2E3FA90}">
+        <DisplayName>ITXWorkflowAppDeployment</DisplayName>
+        <SiteURL>http://epm2007demo/pwa04</SiteURL>
+        <ListURL>http://epm2007demo/pwa04/Shared%20Documents/Forms/AllItems.aspx</ListURL>
+        <TargetList Id="{7eee7853-6fcb-40b3-b06e-0b3c33bb55b2}">Shared Documents</TargetList>
+        <HistoryList Id="{9bcfff39-112a-4689-8995-04b0dd4ceec8}">Proposal Workflow History</HistoryList>
+        <TaskList Id="{f9a1b841-8abe-4f55-97d6-07dd099933ba}">Proposal Workflow Tasks</TaskList>
+        <AutoAssociate>true</AutoAssociate>
+        <ManualStart>true</ManualStart>
+        <StartOnCreate>false</StartOnCreate>
+        <StartOnChange>false</StartOnChange>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

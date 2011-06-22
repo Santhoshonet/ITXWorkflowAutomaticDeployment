@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feature  Id="82e80bd9-ee70-4f8d-8cfe-d7f3dedebe72"
+      Title="ITXWorkflowAppDeployment feature"
+      Description="Automatic deployment / upgradation of sharepoint files."
+      Version="12.0.0.0"
+      Scope="Site"
+      xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="workflow.xml" />
+  </ElementManifests>
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+    <!-- Value for RegisterForms key indicates the path to the forms relative to feature file location -->
+    <!-- if you don't have forms, use *.xsn -->
+    <Property Key="RegisterForms" Value="*.xsn" />
+  </Properties>
+</Feature>
